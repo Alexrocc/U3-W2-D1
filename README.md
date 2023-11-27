@@ -1,6 +1,7 @@
 # U3W2D1
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.13.
+It is my very first small Angular project to learn its basic mechanics!
 
 ## Development server
 
